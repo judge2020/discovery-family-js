@@ -1,5 +1,3 @@
-'use strict';
-
 import {getBearerTokenDTV} from "./providers/directv";
 import {DiscoveryTokenResponse, DiscoveryLivestreamResponse} from "./providers/oauth_helpers";
 import axios, {AxiosInstance} from "axios";
