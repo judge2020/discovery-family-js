@@ -1,0 +1,33 @@
+{
+  "name": "discovery-family",
+  "version": "0.0.1",
+  "description": "Discovery Family API (WIP)",
+  "main": "index.js",
+  "scripts": {
+    "experiment": "tsc && cross-env node %NODE_DEBUG_OPTION% tests/api.test.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "mlp",
+    "sabrina",
+    "my little pony",
+    "transformers",
+    "trba",
+    "dfc"
+  ],
+  "author": "judge2020",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^11.11.4",
+    "cross-env": "^5.2.0",
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "@types/htmlparser2": "^3.7.31",
+    "@types/jsdom": "^12.2.3",
+    "axios": "^0.18.0",
+    "htmlparser2": "^3.10.1",
+    "query-string": "^6.4.0",
+    "typescript": "^3.3.4000"
+  }
+}
