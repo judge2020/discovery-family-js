@@ -27,7 +27,7 @@
     "@types/jsdom": "^12.2.3",
     "axios": "^0.18.0",
     "htmlparser2": "^3.10.1",
-    "query-string": "^6.4.0",
+    "query-string": "^6.5.0",
     "typescript": "^3.3.4000"
   }
 }
