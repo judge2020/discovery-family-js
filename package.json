@@ -23,7 +23,7 @@
     "jest": "^24.5.0"
   },
   "dependencies": {
-    "@types/htmlparser2": "^3.7.31",
+    "@types/htmlparser2": "^3.10.0",
     "@types/jsdom": "^12.2.3",
     "axios": "^0.18.0",
     "htmlparser2": "^3.10.1",
